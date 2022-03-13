@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(89,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(93,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(97,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(101,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(115,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(120,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(124,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(129,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(133,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(138,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(143,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(148,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(153,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(158,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(367,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Project22\Source.cpp(368,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project22.vcxproj -> C:\Users\ralsh\Documents\CS39_6\CG_Lec\Project22\Debug\Project22.exe
